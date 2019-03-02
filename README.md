@@ -11,3 +11,4 @@ ANDROID APP SCREEN
 ![SCREEN](./screen.png)
 
 API LOGS (HOSTED ON DIGITALOCEAN)
+![SERVER](./server.png)
