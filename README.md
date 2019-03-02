@@ -7,4 +7,7 @@ Remote therometer for stove with low temperature notification based on ESP8266 d
 3. Android application still calling GET request to api and updating displayed temperature
 
 ## SCREENS AND PHOTOS
+ANDROID APP SCREEN
 ![SCREEN](./screen.png)
+
+API LOGS (HOSTED ON DIGITALOCEAN)
