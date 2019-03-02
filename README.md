@@ -14,4 +14,4 @@ API LOGS (HOSTED ON DIGITALOCEAN)
 ![SERVER](./server.png)
 
 DEVICE
-![SERVER](./board.png)
+![DEVICE](./board.jpg)
